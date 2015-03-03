@@ -1,6 +1,8 @@
 CUDA implementation of the Jacobi method
 ========================================
 
+This project has been created in the scope of ["Introduction to GPU and accelerator programming for scientific computing"](http://sese.nu/introduction-to-gpu-and-accelerator-programming-for-scientific-computing-2014/), a course organized by [SeSE](http://sese.nu/) and [PDC at KTH](https://www.pdc.kth.se/).
+
 Problem
 -------
 
